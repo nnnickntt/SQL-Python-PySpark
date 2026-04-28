@@ -8,4 +8,4 @@ Basic to Advanced Aggregations:  GROUP BY with SUM, AVG, COUNT, MAX, MIN
 Logical Filtering:  HAVING clause
 
 📂 Project Structure
-databricks-sql-dml-ddl.sql: SQL 12 exercise covering Skills & Knowledge DDL & DML & Aggregations
+databricks-sql-dml-ddl.sql: 12 exercises of SQL script executed on **Databricks** ,covering Skills & Knowledge DDL & DML & Aggregations
