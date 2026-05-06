@@ -27,11 +27,11 @@ This repository contains a collection of SQL scripts and exercises executed on *
 ## 📂 Project Structure
 
 ### 1. `databricks-sql-dml-ddl.sql`
-*   **Content:** 12 comprehensive exercises.
+*   **Content:** 12 exercises covering the core DDL/DML and aggregation skills.
 *   **Focus:** Covers the primary **Skills & Knowledge** section, including DDL, DML, basic transformations, and core aggregations
 
 ### 2. `sql-advanced.sql`
-*   **Content:** Advanced Medallion Architecture (Bronze to Silver/Gold) workflows
-*   **Focus:** Complex analytical functions, windowing, and data standardization techniques to solve real-world data engineering challenges.
+*   **Content:** Medallion Architecture (Bronze → Silver → Gold) workflows
+*   **Focus:** Advanced cleansing, window functions, and business-ready analytics.
 
 ---
