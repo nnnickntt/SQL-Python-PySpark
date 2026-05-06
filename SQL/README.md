@@ -1,7 +1,3 @@
-# 🚀 Databricks SQL: From Foundational DDL to Advanced Analytical Engineering
-
-This repository contains a collection of SQL scripts and exercises executed on **Databricks**, showcasing the ability to transform raw data into actionable business insights using Spark SQL.
-
 ## 🛠️ Skills & Knowledge
 
 ### **Core SQL Foundations**
