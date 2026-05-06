@@ -26,7 +26,7 @@ This repository contains a collection of SQL scripts and exercises executed on *
 
 ## 📂 Project Structure
 
-### 1. `databricks-sql-dml-ddl.sql`
+### 1. `sql-basic-ddl-dml.sql`
 *   **Content:** 12 exercises covering the core DDL/DML and aggregation skills.
 *   **Focus:** Covers the primary **Skills & Knowledge** section, including DDL, DML, basic transformations, and core aggregations
 
