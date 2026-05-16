@@ -17,7 +17,7 @@
 
 ### 📂 Project Structure
 
-#### 3. python-data-cleaning-practice.py
+#### 1. python-data-cleaning-practice.py
 
 * **Content:** A 10-step Python data processing workflow.
 * **Focus:** Hands-on practice with core Python data structures, error safety, and list comprehension techniques.
