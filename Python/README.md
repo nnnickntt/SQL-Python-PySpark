@@ -27,5 +27,5 @@
 ### 2. `Python-OOP.py`
 * **Content:** Designing a reliable sales data pipeline with Python classes and exception handling..
 * **Focus:** Harnessing the power of Python `@dataclass`, dynamic argument packing (`*args`), dictionary transformations via comprehensions, and resilient `try-except` error management to process multi-batch transactions safely.
-* 
+
 ---
