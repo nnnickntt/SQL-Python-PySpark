@@ -6,6 +6,6 @@ Practicing SQL, Python, and PySpark to build ETL/ELT Pipelines on the Data Lakeh
 * **[SQL/](./SQL/)**
     *Foundational DDL/DML and Advanced Analytics Queries.*
 * **[Python/](./Python)**
-    *Core Structures, Advanced Comprehensions, OOP/Classes, and Data Practices.
+    *Core Structures, Advanced Comprehensions, OOP/Classes, and Data Practices.*
 * **[PySpark/](./PySpark)**
-    *Data Cleaning, Imputation, Advanced Joins, Window Functions, and Struct Aggregations.
+    *Data Cleaning, Imputation, Advanced Joins, Window Functions, and Struct Aggregations.*
